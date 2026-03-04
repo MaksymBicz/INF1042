@@ -1,0 +1,3 @@
+Python
+import random
+print_(random.randit(1, 100))

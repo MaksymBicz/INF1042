@@ -1,0 +1,4 @@
+Python 
+nombre = int(input("Entrez un nombre : "))
+resultat = nombhre * 5
+print("Le resultat est :", resultat)

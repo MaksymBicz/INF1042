@@ -1,0 +1,4 @@
+Python
+from datetime import datetime, timedelta
+date_future = datetime.now() + timedelta (hours=100)
+print(date_future)
