@@ -1,0 +1,22 @@
+def verifier_mot_de_passe(mdp):
+    a_chiffre = False
+    a_lettre = False
+
+    for caractere in mdp:
+        if caractere.isdigit():
+            a_chiffre = True
+        if caractere.isalpha():
+            a_lettre = True
+
+    if len(mdp) >= 8 and a_chiffre and a_lettre:
+        return True
+    else:
+        return False
+
+
+mot_de_passe = input("Entre un mot de passe : ")
+
+if verifier_mot_de_passe(mot_de_passe):
+    print("Mot de passe valide")
+else:
+    print("Mot de passe invalide")

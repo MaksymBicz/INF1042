@@ -1,0 +1,26 @@
+notes = []
+
+while True:
+    print("\n1. Entrer notes")
+    print("2. Moyenne")
+    print("3. Réussites")
+    print("4. Échecs")
+    print("5. Quitter")
+
+    choix = input("Choix : ")
+
+    if choix == "1":
+        n = int(input("Combien de notes ? "))
+        notes = [float(input("Note : ")) for _ in range(n)]
+
+    elif choix == "2":
+        print("Moyenne :", sum(notes)/len(notes) if notes else "Aucune note")
+
+    elif choix == "3":
+        print("Réussites :", sum(1 for note in notes if note >= 50))
+
+    elif choix == "4":
+        print("Échecs :", sum(1 for note in notes if note < 50))
+
+    elif choix == "5":
+        break
