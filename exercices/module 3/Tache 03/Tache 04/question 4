@@ -1,0 +1,5 @@
+def nombre_pair():
+    n = input("Entrez un nombre entier: ")
+    print(n[-1] in ["0", "2", "4", "6", "8"])
+
+nombre_pair()

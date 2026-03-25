@@ -1,0 +1,10 @@
+def sortie():
+    temperature = float(input("Entrez la température: "))
+    pluie = input("Est-ce qu'il pleut? (oui/non): ")
+
+    if temperature >= 15 and pluie == "non":
+        print("Sortie permise")
+    else:
+        print("On reste dedans")
+
+sortie()

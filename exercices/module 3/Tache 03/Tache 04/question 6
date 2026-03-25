@@ -1,0 +1,13 @@
+def aire_rectangles():
+    l1 = float(input("Longueur rectangle 1: "))
+    L1 = float(input("Largeur rectangle 1: "))
+    
+    l2 = float(input("Longueur rectangle 2: "))
+    L2 = float(input("Largeur rectangle 2: "))
+    
+    aire1 = l1 * L1
+    aire2 = l2 * L2
+    
+    print(aire1 == aire2)
+
+aire_rectangles()

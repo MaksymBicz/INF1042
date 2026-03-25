@@ -1,0 +1,5 @@
+def contient_a():
+    mot = input("Entrez un mot: ")
+    print("a" in mot)
+
+contient_a()

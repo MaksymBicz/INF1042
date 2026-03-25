@@ -1,0 +1,10 @@
+def triangle():
+    a = float(input("Côté 1: "))
+    b = float(input("Côté 2: "))
+    c = float(input("Côté 3: "))
+    
+    possible = (a + b > c) and (a + c > b) and (b + c > a)
+    
+    print(possible)
+
+triangle()

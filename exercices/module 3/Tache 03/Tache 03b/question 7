@@ -1,0 +1,4 @@
+def moyenne(a, b, c):
+    return (a + b + c) / 3
+
+print(moyenne(5, 10, 15))

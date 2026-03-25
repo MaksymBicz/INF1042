@@ -1,0 +1,12 @@
+def peut_entrer(age):
+    return age >= 18
+
+def verifier_entree():
+    age = int(input("Entrez votre âge: "))
+
+    if peut_entrer(age):
+        print("Vous pouvez entrer dans le club.")
+    else:
+        print("Entrée refusée. Vous devez avoir 18 ans ou plus.")
+
+verifier_entree()

@@ -1,0 +1,10 @@
+def division():
+    n = int(input("Entrez un entier: "))
+
+    print("n / 4 =", n / 4)
+    print("n // 4 =", n // 4)
+
+    print("/ donne une division normale avec décimales.")
+    print("// donne une division entière (sans décimales).")
+
+division()
