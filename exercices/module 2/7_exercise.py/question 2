@@ -1,0 +1,20 @@
+import random, time
+
+n = int(input("Questions: "))
+c = i = 0
+t0 = time.time()
+
+for _ in range(n):
+    a, b = random.randint(1,9), random.randint(1,9)
+    op = random.choice(["+","-","*","/"])
+    r = eval(f"{a}{op}{b}")
+    ans = float(input(f"{a} {op} {b} = "))
+
+    if round(ans,2) == round(r,2):
+        c += 1
+    else:
+        i += 1
+
+print("Correct:", c)
+print("Incorrect:", i)
+print("Temps:", round(time.time()-t0,2), "s")

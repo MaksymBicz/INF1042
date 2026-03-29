@@ -1,0 +1,13 @@
+import random, string
+
+p = input("Prénom: ").lower()
+n = input("Nom: ").lower()
+a = int(input("Année: "))
+v = input("Ville: ").lower()
+
+print("Utilisateur:", p+"."+n)
+print("Email:", p+"."+n+"@"+v+".ca")
+print("Statut:", "18+" if 2026-a >= 18 else "-18")
+
+mdp = p[:2] + n[-2:] + str(a) + ''.join(random.choices(string.ascii_letters+string.digits, k=4))
+print("Mot de passe:", mdp)

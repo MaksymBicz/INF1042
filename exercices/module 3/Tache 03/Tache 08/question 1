@@ -1,0 +1,10 @@
+heure = int(input("Entre une heure (0-23): "))
+
+if heure == 0:
+    print("12am")
+elif heure < 12:
+    print(str(heure) + "am")
+elif heure == 12:
+    print("12pm")
+else:
+    print(str(heure - 12) + "pm")

@@ -1,0 +1,8 @@
+pointes = int(input("Nombre de pointes: "))
+eleves = int(input("Nombre d'élèves: "))
+
+par_personne = pointes // eleves
+reste = pointes % eleves
+
+print("Chaque élève reçoit:", par_personne)
+print("Pointes restantes:", reste)
