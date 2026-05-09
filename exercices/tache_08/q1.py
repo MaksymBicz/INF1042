@@ -1,8 +1,7 @@
-# q1.py
 import pandas as pd
 
-# Charger le CSV
+
 df = pd.read_csv("nba.csv")
 
-# Afficher les 5 premières lignes
+
 print(df.head())

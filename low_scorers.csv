@@ -1,0 +1,128 @@
+Player,Team,year drafted,position,number,ppg,rebounds pg,assists,salary,games played,country,captain
+Mason Xu,Aurora Arrows,2012,PG,30,3.6,2.5,11.3,10451706,7,United States,False
+Victor Garcia,Aurora Arrows,2012,SG,87,4.5,7.2,10.2,27529445,64,Australia,False
+Darius Foster,Aurora Arrows,2014,C,85,4.5,2.4,1.6,21343705,7,China,False
+Noah Turner,Aurora Arrows,2010,SF,34,3.1,9.0,4.2,21900528,61,Greece,False
+Zane Edwards,Bay City Breakers,2013,C,10,2.6,1.4,10.6,30608172,41,Australia,False
+Yusuf Underwood,Bay City Breakers,2020,PG,71,3.5,14.1,2.9,5454900,68,Nigeria,False
+Mason Underwood,Canyon Comets,2007,SF,36,4.4,10.0,7.7,4325385,80,China,False
+Uriel Parker,Canyon Comets,2008,PF,17,2.2,8.4,10.9,28157096,64,Canada,False
+Mason Diaz,Canyon Comets,2019,C,4,3.1,1.3,9.3,3723234,63,United States,False
+Yusuf Lewis,Canyon Comets,2015,PG,22,4.3,9.6,6.3,13862657,38,United States,False
+Preston Turner,Capital Dragons,2006,PG,84,3.5,1.7,5.4,29305149,61,Lithuania,False
+Blake Mitchell,Capital Dragons,2019,C,47,4.9,10.3,6.5,24920194,15,Spain,False
+Owen Nelson,Capital Dragons,2012,PF,19,2.7,4.0,5.7,5737419,18,United States,False
+Noah Owens,Cedar Eagles,2022,PG,30,4.3,2.0,9.0,22728371,58,United States,False
+Hudson Vasquez,Coastal Falcons,2009,PG,21,2.7,6.6,2.0,20099923,39,United States,False
+Julian Nelson,Coastal Falcons,2010,PG,86,4.4,0.6,10.9,40694580,20,Brazil,False
+Evan Underwood,Crystal Giants,2019,PF,99,4.0,12.6,9.4,34357671,7,Canada,False
+Evan Young,Desert Hawks,2019,SF,73,3.3,12.2,2.6,25936688,17,Canada,False
+Darius Edwards,Eastport Ice,2015,SG,15,2.2,4.9,4.4,18953719,59,Philippines,False
+Wyatt Nelson,Eastport Ice,2022,SG,13,4.4,10.0,3.8,41291252,57,Canada,False
+Owen Diaz,Eastport Ice,2018,SG,86,3.0,5.5,10.1,12580653,38,Philippines,False
+Zane Foster,Emerald Jaguars,2008,PF,15,4.5,9.1,4.6,38838234,77,United States,False
+Landon Zimmerman,Emerald Jaguars,2008,SF,43,4.0,12.0,5.7,14925356,31,United States,False
+Xavier Edwards,Fairview Knights,2024,SG,48,2.4,2.1,2.3,40563020,21,United States,False
+Landon Young,Fairview Knights,2023,C,62,3.3,5.0,11.1,1418997,21,Canada,False
+Hudson Garcia,Fairview Knights,2013,PG,16,3.0,9.9,7.3,1899971,22,Lithuania,False
+Noah Quinn,Falcon Lynx,2011,C,49,2.5,3.4,10.2,26375034,10,Canada,False
+Blake Mitchell,Falcon Lynx,2024,SF,73,4.8,6.9,1.7,4922631,37,Spain,False
+Tyler Young,Falcon Lynx,2007,SF,48,3.6,6.8,9.9,23706792,59,South Korea,False
+Sawyer Mitchell,Falcon Lynx,2016,PG,53,2.4,8.2,5.5,18443354,71,France,False
+Victor Lewis,Falcon Lynx,2024,C,8,2.2,7.7,4.6,27337654,55,Australia,False
+Uriel Carter,Falcon Lynx,2017,SG,99,3.1,2.8,8.1,6135014,25,United States,False
+Preston Lewis,Forest Monarchs,2008,PG,76,2.1,12.8,0.4,3935768,15,China,True
+Uriel Vasquez,Forest Monarchs,2024,PG,81,4.7,7.8,11.4,15897834,54,United States,False
+Hudson Quinn,Frontier Navigators,2020,SG,29,2.5,10.3,4.4,21138768,12,Greece,False
+Hudson Underwood,Frontier Navigators,2007,SG,62,3.5,12.7,9.2,15232676,5,Germany,False
+Blake Nelson,Glacier Owls,2007,PG,91,4.8,12.4,7.9,12060351,36,United States,False
+Tyler Garcia,Glacier Owls,2008,C,6,4.0,10.0,8.9,9157644,23,United States,False
+Tyler Underwood,Granite Quakes,2014,SG,6,2.7,1.8,11.0,15400860,26,Canada,False
+Xavier Garcia,Granite Quakes,2013,PG,92,4.3,6.9,4.5,36795892,3,Philippines,False
+Roman Iverson,Granite Quakes,2008,SF,2,3.4,2.2,5.4,9144324,67,United States,False
+Roman Quinn,Harbor Raptors,2008,SG,80,2.7,3.5,6.4,14526877,75,United States,False
+Wyatt Nelson,Highland Stallions,2022,PF,41,2.4,3.2,9.8,1339240,43,United States,False
+Uriel Foster,Highland Stallions,2022,C,89,3.2,12.1,11.3,20261202,26,United States,False
+Xavier Zimmerman,Highland Stallions,2020,SG,42,3.7,12.1,2.0,14984004,54,Canada,False
+Landon Turner,Highland Stallions,2021,SG,1,2.3,3.5,6.9,22689653,73,United States,False
+Kai Simmons,Highland Stallions,2005,C,44,3.9,6.2,9.5,36139632,61,United States,False
+Felix Quinn,Ironwood Titans,2023,PG,80,3.2,8.7,0.9,18181511,78,Cameroon,False
+Uriel Carter,Ironwood Titans,2012,SG,94,4.6,4.9,9.1,6899232,72,United States,False
+Darius Xu,Lakeview Breakers,2024,PG,18,4.1,4.0,10.7,27861606,63,Turkey,False
+Yusuf Simmons,Lakeview Breakers,2009,PF,88,4.2,14.1,7.5,31985363,61,Nigeria,False
+Caleb Mitchell,Lakeview Breakers,2023,PF,51,3.3,11.1,6.7,21025498,6,United States,False
+Roman Quinn,Liberty Comets,2012,PG,50,2.6,12.3,8.2,19369169,55,United States,False
+Preston Hayes,Liberty Comets,2007,PF,83,4.9,4.9,7.6,32082234,43,China,False
+Blake Lewis,Maple Dragons,2007,SG,78,4.7,9.3,10.9,4880044,65,United States,False
+Yusuf Xu,Midland Falcons,2008,C,63,3.4,4.2,3.9,36069933,20,United States,False
+Felix Garcia,Midland Falcons,2006,SG,23,3.7,11.6,1.1,32401016,22,Turkey,False
+Aiden Iverson,Monarch Giants,2015,PG,94,4.8,14.5,5.7,17496158,76,Turkey,False
+Isaiah Carter,Monarch Giants,2015,PF,99,3.7,12.3,9.5,27771713,13,United States,False
+Owen Parker,Monarch Giants,2018,PG,96,3.2,5.6,8.4,33411188,23,Senegal,False
+Hudson Iverson,Monarch Giants,2015,PG,10,3.6,11.9,6.7,39435066,1,Brazil,False
+Gavin Simmons,Northgate Hawks,2018,SG,55,4.8,3.1,2.4,12668579,14,South Korea,False
+Noah Iverson,Northgate Hawks,2010,PG,60,3.1,9.9,5.1,35394946,26,Canada,False
+Felix Lewis,Northgate Hawks,2009,SG,36,4.3,9.7,2.7,13393027,70,Australia,False
+Gavin Mitchell,Pinecrest Knights,2015,PF,90,3.6,5.6,0.4,10012689,26,Germany,False
+Mason Knight,Pinecrest Knights,2010,SG,50,3.3,0.9,7.6,31847850,42,United States,False
+Zane Adams,Pinecrest Knights,2018,SF,30,2.2,3.3,1.2,39224164,31,United States,False
+Evan Knight,Prairie Lynx,2025,SG,45,4.8,10.2,3.5,41296566,39,United States,False
+Blake Jackson,Prairie Lynx,2015,C,71,3.9,2.3,10.8,30506642,34,Italy,False
+Landon Owens,Prairie Lynx,2005,PG,23,2.4,3.6,5.1,34296772,41,Serbia,False
+Quentin Nelson,Quartz Monarchs,2013,SF,13,2.6,1.1,6.5,7733093,39,Canada,False
+Julian Knight,Quartz Monarchs,2010,PG,64,3.1,12.7,7.9,41335802,44,United States,False
+Hudson Parker,Quartz Monarchs,2006,SF,91,2.1,3.7,2.9,15153483,6,United States,False
+Landon Walker,Riverside Navigators,2020,SG,58,3.2,1.8,7.7,31472219,51,Canada,False
+Sawyer Hayes,Riverside Navigators,2015,PF,35,4.5,5.8,4.8,26171518,60,United States,True
+Mason Simmons,Riverside Navigators,2025,PG,25,4.6,4.4,4.9,27367605,43,China,False
+Owen Zimmerman,Rockford Owls,2016,PG,13,2.4,13.7,7.8,6215810,48,United States,False
+Julian Walker,Royal Pioneers,2012,SG,96,3.1,6.0,11.5,35814090,42,France,False
+Caleb Walker,Sapphire Quakes,2012,PG,43,2.6,8.4,7.0,1332569,60,United States,False
+Preston Hayes,Seaside Raptors,2023,SG,87,2.9,13.2,6.5,21123192,44,United States,False
+Kai Turner,Silver Stallions,2010,SF,5,3.6,5.7,2.7,17719945,70,Greece,False
+Roman Quinn,Skyline Titans,2008,PG,34,2.1,5.6,7.5,20444685,10,United States,False
+Sawyer Xu,Skyline Titans,2025,SF,25,3.4,9.8,1.7,20845831,37,South Korea,False
+Kai Adams,Skyline Titans,2012,PG,61,2.7,8.2,7.5,1493897,35,South Korea,False
+Preston Lewis,Southport Arrows,2017,PF,50,4.2,8.5,0.9,16609942,69,Japan,False
+Noah Knight,Stonebridge Breakers,2023,SG,24,2.4,7.9,4.6,33391022,7,United States,False
+Darius Quinn,Summit Comets,2022,SG,29,2.2,11.1,0.4,35917108,0,United States,False
+Wyatt Owens,Sunset Dragons,2019,PG,34,3.6,3.1,5.7,11825987,57,Brazil,False
+Roman Quinn,Sunset Dragons,2018,PG,92,4.5,14.4,1.1,36153251,44,United States,False
+Mason Baker,Sunset Dragons,2013,SF,98,2.5,11.1,5.6,13077780,52,United States,False
+Quentin Turner,Timber Eagles,2007,SF,22,3.2,10.6,11.6,36019645,50,Italy,False
+Uriel Adams,Trinity Falcons,2022,PG,98,4.3,1.6,0.5,34886160,3,Croatia,False
+Tyler Walker,Trinity Falcons,2025,C,75,4.0,3.2,5.7,32216843,18,United States,False
+Blake Parker,Trinity Falcons,2011,SG,87,4.5,8.1,4.0,40369942,73,United States,False
+Felix Vasquez,Trinity Falcons,2011,PG,36,3.2,6.1,8.8,2971079,14,United States,False
+Julian Jackson,Valley Giants,2015,SG,33,2.3,3.4,3.5,5402401,47,United States,False
+Gavin Baker,Valley Giants,2025,PG,21,3.9,11.6,5.5,20542597,21,France,True
+Tyler Young,Valley Giants,2019,PF,82,2.4,2.1,1.0,3005476,42,United States,False
+Roman Zimmerman,Westhaven Hawks,2023,SF,60,4.9,0.7,9.0,21623032,9,United States,False
+Gavin Carter,Westhaven Hawks,2008,SF,20,2.9,10.4,5.9,13378695,23,United States,False
+Preston Parker,Westhaven Hawks,2019,PG,79,2.6,2.9,2.0,30731291,25,United States,False
+Wyatt Owens,Whitewater Ice,2005,PG,85,2.7,14.4,3.5,9241238,49,Canada,False
+Wyatt Walker,Whitewater Ice,2015,SF,97,3.9,8.3,10.5,11419998,18,United States,False
+Caleb Hayes,Wildwood Jaguars,2024,C,12,4.2,3.5,3.3,24271586,45,United States,False
+Xavier Mitchell,Wildwood Jaguars,2014,PF,13,4.4,2.7,8.4,11203346,29,United States,False
+Victor Adams,Willow Knights,2020,PG,24,2.9,11.1,9.8,34279267,43,South Korea,False
+Noah Parker,Windfall Lynx,2010,PF,94,2.1,8.3,1.1,3848590,69,Canada,False
+Julian Edwards,Windfall Lynx,2023,C,19,2.5,8.4,7.0,28873190,61,United States,False
+Landon Mitchell,Winston Monarchs,2024,SF,60,3.0,1.5,9.2,25433887,58,Cameroon,False
+Kai Nelson,Winston Monarchs,2017,SF,63,3.6,12.7,1.9,14291676,79,Canada,False
+Xavier Hayes,Winston Monarchs,2006,PF,17,2.7,5.4,1.5,11879616,37,United States,False
+Kai Vasquez,Winter Navigators,2017,PF,43,3.1,4.1,8.4,10009056,13,United States,False
+Yusuf Diaz,York Owls,2010,C,45,3.8,2.6,8.3,10356149,16,Canada,False
+Sawyer Turner,York Owls,2011,PG,31,2.8,14.6,7.3,41491430,37,Serbia,False
+Julian Jackson,Zenith Pioneers,2008,PG,56,3.2,2.7,4.5,25979569,76,United States,False
+Kai Young,Zenith Pioneers,2013,C,7,4.7,6.6,3.5,1087947,75,United States,False
+Noah Young,Zenith Pioneers,2022,SG,95,4.0,10.9,10.6,33967390,78,Lithuania,False
+Kai Walker,Zenith Pioneers,2012,PG,71,2.0,13.6,2.6,9607005,24,Lithuania,False
+Preston Zimmerman,Briar Quakes,2015,SG,24,3.2,13.8,7.1,21060157,6,United States,False
+Uriel Garcia,Briar Quakes,2006,PF,3,4.4,14.1,9.1,18610757,70,Canada,False
+Preston Reed,Briar Quakes,2017,SG,90,3.2,12.3,9.8,21245348,70,United States,False
+Tyler Underwood,Briar Quakes,2015,C,7,4.9,8.1,4.3,29826659,33,Croatia,True
+Uriel Vasquez,Briar Quakes,2012,SG,37,3.8,14.1,10.3,12602989,4,Cameroon,False
+Preston Edwards,Briar Quakes,2013,PG,10,4.1,10.9,9.2,2109283,44,Australia,False
+Evan Parker,Lakeshore Raptors,2019,SF,8,4.4,9.9,8.4,30225137,27,Nigeria,False
+Isaiah Simmons,Redwood Stallions,2020,C,43,2.2,14.6,7.6,8295495,52,Spain,False
+Landon Owens,Grandview Titans,2008,PG,5,2.3,2.5,7.7,22906054,76,Japan,False
