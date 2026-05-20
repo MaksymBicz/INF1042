@@ -4,7 +4,7 @@ notes = [12, 15, 9, 18, 15, 12]
 moyenne = sum(notes) / len(notes)
 print("Moyenne:", moyenne)
 
-# valeur la plus fréquente (sans set)
+# valeur la plus fréquente 
 frequent = notes[0]
 max_count = 0
 
