@@ -1,0 +1,16 @@
+WIDTH = 800
+HEIGHT = 600
+
+FPS = 60
+
+WHITE    = (255, 255, 255)
+BLACK    = (0,   0,   0)
+BLUE     = (50,  150, 255)
+RED      = (255, 0,   0)
+YELLOW   = (255, 220, 0)
+
+PLAYER_SPEED    = 5
+FISH_SPEED      = 3
+OBSTACLE_SPEED  = 4
+
+INVINCIBILITY_FRAMES = 90
